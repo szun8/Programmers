@@ -1,7 +1,7 @@
 <H1>📚 Study new things & Memo IT</H1>
 : Programmers_CodingTest👩🏻‍💻 (based in code link🔗)
 
-* 🗓 2021/8/4(TUE)   
+* 🗓 2021/8/4(WED)   
   > `unique()` in `vector`   
   > 🔗 [두 개 뽑아서 더하기](https://github.com/szun8/Programmers/commit/c46c703f260c13f6746a437fa984fcd553fbff67#r54506994)
   
@@ -13,3 +13,6 @@
   > `tolower` `toupper` in `string` `cctype`   
   > 🔗 [문자열 내 p와 y의 개수](https://github.com/szun8/Programmers/commit/8a2393bcd208b28bcb27df6bc43bfe7af1465deb#r54579595)
 
+* 🗓 2021/8/12(THU)
+  > `find()` in `string`  
+  > 🔗 [숫자 문자열과 영단어](https://github.com/szun8/Programmers/commit/dabb4ae965eddbc8fc2376ba5f6f40d53b342d78#r54775165)
