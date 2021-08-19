@@ -13,7 +13,6 @@ string solution(vector<vector<int>> scores) {
 		vector<int> num;
 		for (int j = 0; j < size; ++j)
 			num.push_back(scores[j][i]);
-		bool isRe = false;
 		max = *max_element(num.begin(), num.end());
 		min = *min_element(num.begin(), num.end());
 		for (int j = 0; j < size; ++j) {
