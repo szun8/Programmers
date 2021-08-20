@@ -23,3 +23,7 @@
   > 
   > `최대공약수` `최소공배수` by `유클리드 호제법`   
   > 🔗 [최대공약수와 최소공배수](https://github.com/szun8/Programmers/commit/da1ff0bd0285c7ba8d624cf1bed84a0659a5631d#r55128718)
+
+* 🗓 2021/8/20(FRI)
+  > `Greedy Algorithm`    
+  > 🔗 [체육복](https://github.com/szun8/Programmers/commit/9bf7342cfb6ad79c30b02934398614e472a6ebfa?branch=9bf7342cfb6ad79c30b02934398614e472a6ebfa&diff=unified#r55182498)
