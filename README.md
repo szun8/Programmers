@@ -32,3 +32,11 @@
 * 🗓 2021/8/23(MON)
   > `Map` in `associative container` `c++ study`   
   > 🔗 [문자열 내 마음대로 정렬하기](https://github.com/szun8/Cpp_Unreal_lec#-map)
+
+* 🗓 2021/8/26(THU)
+  > `istringstream` `getline` `lambda`  
+  > 🔗 [4주차-직업군 추천하기](https://github.com/szun8/Programmers/commit/7391518217e329631edafdd06e8d8a149eec221d#r55452700)   
+  > 
+  > `에라토스테네스의 체`  
+  > 🔗 [소수 찾기](https://github.com/szun8/Programmers/commit/9148a3eafb814b93c0b221214b3ccfe49de2c92d?branch=9148a3eafb814b93c0b221214b3ccfe49de2c92d&diff=unified#r55452119
+)
